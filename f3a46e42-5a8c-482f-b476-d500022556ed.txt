@@ -1,0 +1,13 @@
+B'nunc' b'a
+B'duis' b
+# B'pede' b
+# B'nib
+B'odio' b'ac
+# B'amet' b'i
+B'urna' b'in'
+B'ant
+# B'ante
+# B'ante' b'in
+# B'amet'
+B'erat' b'et
+B'quam' b'in
